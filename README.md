@@ -2,9 +2,9 @@
 
 For the code move to the master->> branch
 
-                                                                <div align="center"> 
+                                                                <p align="center"> 
                                                                     ABOUT THE WEB APP
-                                                                   </div>
+                                                                   </p>
 <br>                                                                   
 <hr>
 <br>
