@@ -2,7 +2,7 @@
 
 For the code move to the master->> branch
 
-                                                                 ABOUT THE WEB APP<hr/>
+                                                                 ABOUT THE WEB APP\
                                                                    
 
 This is a Web Application for playing 'Lottery'💰 with the Crypto Currency 'Ethereum'⧫.You can enter into the game by staking any amount of ether by Metamask but above than the minimum required ether set by the manager. This Web App will choose randomly the winner and he will receive the whole prize pool into his Metamask account.
