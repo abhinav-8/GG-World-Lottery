@@ -2,7 +2,7 @@
 
 For the code move to the master->> branch
 
-                                                             <h1 align="center">ABOUT THE WEB APP</h1>
+                                                             # < align="center">ABOUT THE WEB APP
                                                                    
 <br>                                                                   
 <hr>
