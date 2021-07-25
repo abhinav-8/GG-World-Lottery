@@ -2,22 +2,17 @@
 
 For the code move to the master->> branch
 
-                                                             <div style="text-align:center">ABOUT THE WEB APP</div>
+---------------------------------------------------
+                                                            ABOUT THE APP
+---------------------------------------------------             
                                                                    
-<br>                                                                   
-<hr>
-<br>
+                                                                   
+
 This is a Web Application for playing 'Lottery'💰 with the Crypto Currency 'Ethereum'⧫.You can enter into the game by staking any amount of ether by Metamask but above than the minimum required ether set by the manager. This Web App will choose randomly the winner and he will receive the whole prize pool into his Metamask account.
 This Web App has been made for Rinkeby Test Network for giving the feel like real ethereum blockchain features and of course there were many other reasons too.<br/>
-<br>                                                                   
-<hr>
-<br>
-                                        
-                                                                    <div align="center"> WEB APP SCREENSHOTS</div>
-                                                                    
-<br>                                                                   
-<hr>
-<br>                                                               
+---------------------------------------------------
+                                                   WEB APP SCREENSHOTS
+---------------------------------------------------                                                  
    ![image](https://user-images.githubusercontent.com/72845356/126897992-bacc49ae-4dea-481e-804d-dbab69938506.png)
    <br>                                                                   
 <hr>
