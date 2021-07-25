@@ -13,21 +13,16 @@ This Web App has been made for Rinkeby Test Network for giving the feel like rea
 ---------------------------------------------------
                                                    WEB APP SCREENSHOTS
 ---------------------------------------------------                                                  
-   ![image](https://user-images.githubusercontent.com/72845356/126897992-bacc49ae-4dea-481e-804d-dbab69938506.png)
-   <br>                                                                   
-<hr>
-<br>
-   
-   
-   ![image](https://user-images.githubusercontent.com/72845356/126898029-c7577c1c-238e-461f-a5d4-c4aa4530e4fe.png)
-   <br>                                                                   
-<hr>
-<br>
-
-
-   ![image](https://user-images.githubusercontent.com/72845356/126898037-8177d4a7-6590-4ab6-87cd-ed521e2495ff.png)
-
+  ![Screenshot (278)](https://user-images.githubusercontent.com/72845356/126898816-f36f721b-2867-4c81-82b9-509592e172ec.png)
   
+---------------------------------------------------   
+
+![Screenshot (281)](https://user-images.githubusercontent.com/72845356/126898819-daa50542-fd8d-4c63-bb1c-c5c8e389f1a1.png)
+
+---------------------------------------------------   
+
+![Screenshot (285)](https://user-images.githubusercontent.com/72845356/126898823-299bd03d-0427-4258-8d72-9f97b611374e.png)
+
    
 
 
